@@ -8,31 +8,31 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285380166282']
-global.mods = ['6285380166282']
-global.prems = ['6285380166282']
+global.owner = ['6282142185506']
+global.mods = ['6282142185506']
+global.prems = ['6282142185506']
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Kahfi-XD'
-global.numberowner = '6285380166282'
-global.instagram = 'https://instagram.com/Kahfi_ofc'
+global.nameowner = 'Ang-XD'
+global.numberowner = '6282142185506'
+global.instagram = 'https://instagram.com/angga_zxx1'
 global.github = 'https://github.com/Kahfi-XD'
-global.tt = 'https://vt.tiktok.com/ZSRYtsmGD/'
-global.sc = 'https://github.com/Kahfi-XD'
-global.ss = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.sss = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.yt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.dana = '6285380166282'
-global.pulsa = '6285380166282'
-global.gopay = ''
+global.tt = 'https://www.tiktok.com/@yui_md1?_t=8UWmJ3UqCkD&_r=1'
+global.sc = 'https://github.com/Kahfi'
+global.ss = 'https://youtube.com/channel/UCCvdFC219f6hYWntD_yPnzQ'
+global.sss = 'https://youtube.com/channel/UCCvdFC219f6hYWntD_yPnzQ'
+global.yt = 'https://youtube.com/channel/UCCvdFC219f6hYWntD_yPnzQ'
+global.dana = '082142185506'
+global.pulsa = '082142185506'
+global.gopay = '082142185506'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Vanz-BOTZ⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/EArOqvYKMvMKB5zdXJFVxg'
-global.web = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Kahfi_ofc'
-global.saweria = 'https://saweria.co/Kahfiaja'
-global.nomer = 'https://wa.me/6285380166282' //ganti jadi nomor mu
+global.gc = 'https://chat.whatsapp.com/LX5HQMc1s6P2GEnSLqYZqr'
+global.web = 'https://chat.whatsapp.com/DiNqCRFLVobBQJ6F2EbW7p' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/angga_zxx1'
+global.saweria = 'https://saweria.co/ang'
+global.nomer = 'https://wa.me/6282142185506' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 50.000\nMAKSIMAL Unli GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 20.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
